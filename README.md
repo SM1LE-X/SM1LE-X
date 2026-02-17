@@ -1,4 +1,4 @@
-# 💫 Hey there 👋, I'm Chinmay!
+#  Hey there 👋, I'm Chinmay!
 I’m a computer science student focused on systems engineering, distributed systems, and automation. <br>I’m interested in building reliable software that scales and operates in real-world environments.<br><br>Currently deepening my understanding of Rust, system design, and production infrastructure.<br>
 
 
