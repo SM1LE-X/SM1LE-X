@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there 👋, I'm Chinmay!
 I’m a computer science student focused on systems engineering, distributed systems, and automation. <br>I’m interested in building reliable software that scales and operates in real-world environments.<br><br>Currently deepening my understanding of Rust, system design, and production infrastructure.<br>
 
 
@@ -12,7 +12,5 @@ I’m a computer science student focused on systems engineering, distributed sys
 ![](https://nirzak-streak-stats.vercel.app/?user=SM1LE-X&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SM1LE-X&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SM1LE-X&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
